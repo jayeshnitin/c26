@@ -1,5 +1,3 @@
-vegies pizza
-
 ## Veggie Pizza Recipe
 
 * **Pizza Dough: Makes enough dough for two 10-12 inch pizzas**
